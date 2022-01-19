@@ -1,0 +1,250 @@
+sensitivity	name	alpha-3	type
+Low:	Afghanistan:	AFG:	City
+Medium:	Aland Islands:	ALA:	County
+High:	Albania:	ALB:	State
+Low:	Algeria:	DZA:	Country
+Medium:	American Samoa:	ASM:	CrossBorderArea
+High:	Andorra:	AND:	City
+Low:	Angola:	AGO:	County
+Medium:	Anguilla:	AIA:	State
+High:	Antarctica:	ATA:	Country
+Low:	Antigua and Barbuda:	ATG:	CrossBorderArea
+Medium:	Argentina:	ARG:	City
+High:	Armenia:	ARM:	County
+Low:	Aruba:	ABW:	State
+Medium:	Australia:	AUS:	Country
+High:	Austria:	AUT:	CrossBorderArea
+Low:	Azerbaijan:	AZE:	City
+Medium:	Bahamas:	BHS:	County
+High:	Bahrain:	BHR:	State
+Low:	Bangladesh:	BGD:	Country
+Medium:	Barbados:	BRB:	CrossBorderArea
+High:	Belarus:	BLR:	City
+Low:	Belgium:	BEL:	County
+Medium:	Belize:	BLZ:	State
+High:	Benin:	BEN:	Country
+Low:	Bermuda:	BMU:	CrossBorderArea
+Medium:	Bhutan:	BTN:	City
+High:	Bolivia (Plurinational State of):	BOL:	County
+Low:	Bonaire, Sint Eustatius and Saba:	BES:	State
+Medium:	Bosnia and Herzegovina:	BIH:	Country
+High:	Botswana:	BWA:	CrossBorderArea
+Low:	Bouvet Island:	BVT:	City
+Medium:	Brazil:	BRA:	County
+High:	British Indian Ocean Territory:	IOT:	State
+Low:	Brunei Darussalam:	BRN:	Country
+Medium:	Bulgaria:	BGR:	CrossBorderArea
+High:	Burkina Faso:	BFA:	City
+Low:	Burundi:	BDI:	County
+Medium:	Cabo Verde:	CPV:	State
+High:	Cambodia:	KHM:	Country
+Low:	Cameroon:	CMR:	CrossBorderArea
+Medium:	Canada:	CAN:	City
+High:	Cayman Islands:	CYM:	County
+Low:	Central African Republic:	CAF:	State
+Medium:	Chad:	TCD:	Country
+High:	Chile:	CHL:	CrossBorderArea
+Low:	China:	CHN:	City
+Medium:	Christmas Island:	CXR:	County
+High:	Cocos (Keeling) Islands:	CCK:	State
+Low:	Colombia:	COL:	Country
+Medium:	Comoros:	COM:	CrossBorderArea
+High:	Congo:	COG:	City
+Low:	Congo, Democratic Republic of the:	COD:	County
+Medium:	Cook Islands:	COK:	State
+High:	Costa Rica:	CRI:	Country
+Low:	Côte dIvoire:	CIV:	CrossBorderArea
+Medium:	Croatia:	HRV:	City
+High:	Cuba:	CUB:	County
+Low:	Curaçao:	CUW:	State
+Medium:	Cyprus:	CYP:	Country
+High:	Czechia:	CZE:	CrossBorderArea
+Low:	Denmark:	DNK:	City
+Medium:	Djibouti:	DJI:	County
+High:	Dominica:	DMA:	State
+Low:	Dominican Republic:	DOM:	Country
+Medium:	Ecuador:	ECU:	CrossBorderArea
+High:	Egypt:	EGY:	City
+Low:	El Salvador:	SLV:	County
+Medium:	Equatorial Guinea:	GNQ:	State
+High:	Eritrea:	ERI:	Country
+Low:	Estonia:	EST:	CrossBorderArea
+Medium:	Eswatini:	SWZ:	City
+High:	Ethiopia:	ETH:	County
+Low:	Falkland Islands (Malvinas):	FLK:	State
+Medium:	Faroe Islands:	FRO:	Country
+High:	Fiji:	FJI:	CrossBorderArea
+Low:	Finland:	FIN:	City
+Medium:	France:	FRA:	County
+High:	French Guiana:	GUF:	State
+Low:	French Polynesia:	PYF:	Country
+Medium:	French Southern Territories:	ATF:	CrossBorderArea
+High:	Gabon:	GAB:	City
+Low:	Gambia:	GMB:	County
+Medium:	Georgia:	GEO:	State
+High:	Germany:	DEU:	Country
+Low:	Ghana:	GHA:	CrossBorderArea
+Medium:	Gibraltar:	GIB:	City
+High:	Greece:	GRC:	County
+Low:	Greenland:	GRL:	State
+Medium:	Grenada:	GRD:	Country
+High:	Guadeloupe:	GLP:	CrossBorderArea
+Low:	Guam:	GUM:	City
+Medium:	Guatemala:	GTM:	County
+High:	Guernsey:	GGY:	State
+Low:	Guinea:	GIN:	Country
+Medium:	Guinea-Bissau:	GNB:	CrossBorderArea
+High:	Guyana:	GUY:	City
+Low:	Haiti:	HTI:	County
+Medium:	Heard Island and McDonald Islands:	HMD:	State
+High:	Holy See:	VAT:	Country
+Low:	Honduras:	HND:	CrossBorderArea
+Medium:	Hong Kong:	HKG:	City
+High:	Hungary:	HUN:	County
+Low:	Iceland:	ISL:	State
+Medium:	India:	IND:	Country
+High:	Indonesia:	IDN:	CrossBorderArea
+Low:	Iran (Islamic Republic of):	IRN:	City
+Medium:	Iraq:	IRQ:	County
+High:	Ireland:	IRL:	State
+Low:	Isle of Man:	IMN:	Country
+Medium:	Israel:	ISR:	CrossBorderArea
+High:	Italy:	ITA:	City
+Low:	Jamaica:	JAM:	County
+Medium:	Japan:	JPN:	State
+High:	Jersey:	JEY:	Country
+Low:	Jordan:	JOR:	CrossBorderArea
+Medium:	Kazakhstan:	KAZ:	City
+High:	Kenya:	KEN:	County
+Low:	Kiribati:	KIR:	State
+Medium:	Korea (Democratic People's Republic of):	PRK:	Country
+High:	Korea, Republic of:	KOR:	CrossBorderArea
+Low:	Kuwait:	KWT:	City
+Medium:	Kyrgyzstan:	KGZ:	County
+High:	Lao People's Democratic Republic:	LAO:	State
+Low:	Latvia:	LVA:	Country
+Medium:	Lebanon:	LBN:	CrossBorderArea
+High:	Lesotho:	LSO:	City
+Low:	Liberia:	LBR:	County
+Medium:	Libya:	LBY:	State
+High:	Liechtenstein:	LIE:	Country
+Low:	Lithuania:	LTU:	CrossBorderArea
+Medium:	Luxembourg:	LUX:	City
+High:	Macao:	MAC:	County
+Low:	Madagascar:	MDG:	State
+Medium:	Malawi:	MWI:	Country
+High:	Malaysia:	MYS:	CrossBorderArea
+Low:	Maldives:	MDV:	City
+Medium:	Mali:	MLI:	County
+High:	Malta:	MLT:	State
+Low:	Marshall Islands:	MHL:	Country
+Medium:	Martinique:	MTQ:	CrossBorderArea
+High:	Mauritania:	MRT:	City
+Low:	Mauritius:	MUS:	County
+Medium:	Mayotte:	MYT:	State
+High:	Mexico:	MEX:	Country
+Low:	Micronesia (Federated States of):	FSM:	CrossBorderArea
+Medium:	Moldova, Republic of:	MDA:	City
+High:	Monaco:	MCO:	County
+Low:	Mongolia:	MNG:	State
+Medium:	Montenegro:	MNE:	Country
+High:	Montserrat:	MSR:	CrossBorderArea
+Low:	Morocco:	MAR:	City
+Medium:	Mozambique:	MOZ:	County
+High:	Myanmar:	MMR:	State
+Low:	Namibia:	NAM:	Country
+Medium:	Nauru:	NRU:	CrossBorderArea
+High:	Nepal:	NPL:	City
+Low:	Netherlands:	NLD:	County
+Medium:	New Caledonia:	NCL:	State
+High:	New Zealand:	NZL:	Country
+Low:	Nicaragua:	NIC:	CrossBorderArea
+Medium:	Niger:	NER:	City
+High:	Nigeria:	NGA:	County
+Low:	Niue:	NIU:	State
+Medium:	Norfolk Island:	NFK:	Country
+High:	North Macedonia:	MKD:	CrossBorderArea
+Low:	Northern Mariana Islands:	MNP:	City
+Medium:	Norway:	NOR:	County
+High:	Oman:	OMN:	State
+Low:	Pakistan:	PAK:	Country
+Medium:	Palau:	PLW:	CrossBorderArea
+High:	Palestine, State of:	PSE:	City
+Low:	Panama:	PAN:	County
+Medium:	Papua New Guinea:	PNG:	State
+High:	Paraguay:	PRY:	Country
+Low:	Peru:	PER:	CrossBorderArea
+Medium:	Philippines:	PHL:	City
+High:	Pitcairn:	PCN:	County
+Low:	Poland:	POL:	State
+Medium:	Portugal:	PRT:	Country
+High:	Puerto Rico:	PRI:	CrossBorderArea
+Low:	Qatar:	QAT:	City
+Medium:	Réunion:	REU:	County
+High:	Romania:	ROU:	State
+Low:	Russian Federation:	RUS:	Country
+Medium:	Rwanda:	RWA:	CrossBorderArea
+High:	Saint Barthélemy:	BLM:	City
+Low:	Saint Helena, Ascension and Tristan da Cunha:	SHN:	County
+Medium:	Saint Kitts and Nevis:	KNA:	State
+High:	Saint Lucia:	LCA:	Country
+Low:	Saint Martin (French part):	MAF:	CrossBorderArea
+Medium:	Saint Pierre and Miquelon:	SPM:	City
+High:	Saint Vincent and the Grenadines:	VCT:	County
+Low:	Samoa:	WSM:	State
+Medium:	San Marino:	SMR:	Country
+High:	Sao Tome and Principe:	STP:	CrossBorderArea
+Low:	Saudi Arabia:	SAU:	City
+Medium:	Senegal:	SEN:	County
+High:	Serbia:	SRB:	State
+Low:	Seychelles:	SYC:	Country
+Medium:	Sierra Leone:	SLE:	CrossBorderArea
+High:	Singapore:	SGP:	City
+Low:	Sint Maarten (Dutch part):	SXM:	County
+Medium:	Slovakia:	SVK:	State
+High:	Slovenia:	SVN:	Country
+Low:	Solomon Islands:	SLB:	CrossBorderArea
+Medium:	Somalia:	SOM:	City
+High:	South Africa:	ZAF:	County
+Low:	South Georgia and the South Sandwich Islands:	SGS:	State
+Medium:	South Sudan:	SSD:	Country
+High:	Spain:	ESP:	CrossBorderArea
+Low:	Sri Lanka:	LKA:	City
+Medium:	Sudan:	SDN:	County
+High:	Suriname:	SUR:	State
+Low:	Svalbard and Jan Mayen:	SJM:	Country
+Medium:	Sweden:	SWE	CrossBorderArea
+High:	Switzerland:	CHE:	City
+Low:	Syrian Arab Republic:	SYR:	County
+Medium:	Taiwan, Province of China:	TWN:	State
+High:	Tajikistan:	TJK:	Country
+Low:	Tanzania, United Republic of:	TZA:	CrossBorderArea
+Medium:	Thailand:	THA:	City
+High:	Timor-Leste:	TLS:	County
+Low:	Togo:	TGO:	State
+Medium:	Tokelau:	TKL:	Country
+High:	Tonga:	TON:	CrossBorderArea
+Low:	Trinidad and Tobago:	TTO:	City
+Medium:	Tunisia:	TUN:	County
+High:	Turkey:	TUR:	State
+Low:	Turkmenistan:	TKM:	Country
+Medium:	Turks and Caicos Islands:	TCA:	CrossBorderArea
+High:	Tuvalu:	TUV:	City
+Low:	Uganda:	UGA:	County
+Medium:	Ukraine:	UKR:	State
+High:	United Arab Emirates:	ARE:	Country
+Low:	United Kingdom of Great Britain and Northern Ireland:	GBR:	CrossBorderArea
+Medium:	United States of America:	USA:	City
+High:	United States Minor Outlying Islands:	UMI:	County
+Low:	Uruguay:	URY:	State
+Medium:	Uzbekistan:	UZB:	Country
+High:	Vanuatu:	VUT:	CrossBorderArea
+Low:	Venezuela (Bolivarian Republic of):	VEN:	City
+Medium:	Viet Nam:	VNM:	County
+High:	Virgin Islands (British):	VGB:	State
+Low:	Virgin Islands (U.S.):	VIR:	Country
+Medium:	Wallis and Futuna:	WLF:	CrossBorderArea
+High:	Western Sahara:	ESH:	City
+Low:	Yemen:	YEM:	County
+Medium:	Zambia:	ZMB:	State
+High:	Zimbabwe:	ZWE:	Country
