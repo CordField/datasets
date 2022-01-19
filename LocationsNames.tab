@@ -1,4 +1,4 @@
-sensitivity	name	alpha-3	type
+sensitivity:	name:	alpha-3:	type
 Low:	Afghanistan:	AFG:	City
 Medium:	Aland Islands:	ALA:	County
 High:	Albania:	ALB:	State
