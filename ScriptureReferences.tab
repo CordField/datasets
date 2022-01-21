@@ -1,0 +1,67 @@
+bookStart:	bookEnd:	chapterStart:	chapterEnd:	verseStart:	verseEnd:
+Genesis:	Genesis:	1:	2:	1:	2:
+Exodus:	Exodus:	2:	3:	2:	3:
+Leviticus:	Leviticus:	3:	4:	3:	4:
+Numbers:	Numbers:	4:	5:	4:	5:
+Deuteronomy:	Deuteronomy:	5:	6:	5:	6:
+Joshua:	Joshua:	6:	7:	6:	7:
+Judges:	Judges:	7:	8:	7:	8:
+Ruth:	Ruth:	8:	9:	8:	9:
+1 Samuel:	1 Samuel:	9:	10:	9:	10:
+2 Samuel:	2 Samuel:	10:	11:	10:	11:
+1 Kings:	1 Kings:	11:	12:	11:	12:
+2 Kings:	2 Kings:	12:	13:	12:	13:
+1 Chronicles:	1 Chronicles:	13:	14:	13:	14:
+2 Chronicles:	2 Chronicles:	14:	15:	14:	15:
+Ezra:	Ezra:	15:	16:	15:	16:
+Nehemiah:	Nehemiah:	16:	17:	16:	17:
+Esther:	Esther:	17:	18:	17:	18:
+Job:	Job:	18:	19:	18:	19:
+Psalms:	Psalms:	19:	20:	19:	20:
+Proverbs:	Proverbs:	20:	21:	20:	21:
+Ecclesiastes:	Ecclesiastes:	1:	2:	1:	2:
+The Song of Solomon:	The Song of Solomon:	2:	3:	2:	3:
+Isaiah:	Isaiah:	3:	4:	3:	4:
+Jeremiah:	Jeremiah:	4:	5:	4:	5:
+Lamentations:	Lamentations:	5:	6:	5:	6:
+Ezekiel:	Ezekiel:	6:	7:	6:	7:
+Daniel:	Daniel:	7:	8:	7:	8:
+Hosea:	Hosea:	8:	9:	8:	9:
+Joel:	Joel:	9:	10:	9:	10:
+Amos:	Amos:	10:	11:	10:	11:
+Obadiah:	Obadiah:	11:	12:	11:	12:
+Jonah:	Jonah:	12:	13:	12:	13:
+Micah:	Micah:	13:	14:	13:	14:
+Nahum:	Nahum:	14:	15:	14:	15:
+Habakkuk:	Habakkuk:	15:	16:	15:	16:
+Zephaniah:	Zephaniah:	16:	17:	16:	17:
+Haggai:	Haggai:	17:	18:	17:	18:
+Zechariah:	Zechariah:	18:	19:	18:	19:
+Malachi:	Malachi:	19:	20:	19:	20:
+Matthew:	Matthew:	20:	21:	20:	21:
+Mark:	Mark:	1:	2:	1:	2:
+Luke:	Luke:	2:	3:	2:	3:
+John:	John:	3:	4:	3:	4:
+Acts:	Acts:	4:	5:	4:	5:
+Romans:	Romans:	5:	6:	5:	6:
+1 Corinthians:	1 Corinthians:	6:	7:	6:	7:
+2 Corinthians:	2 Corinthians:	7:	8:	7:	8:
+Galatians:	Galatians:	8:	9:	8:	9:
+Ephesians:	Ephesians:	9:	10:	9:	10:
+Philippians:	Philippians:	10:	11:	10:	11:
+Colossians:	Colossians:	11:	12:	11:	12:
+1 Thessalonians:	1 Thessalonians:	12:	13:	12:	13:
+2 Thessalonians:	2 Thessalonians:	13:	14:	13:	14:
+1 Timothy:	1 Timothy:	14:	15:	14:	15:
+2 Timothy:	2 Timothy:	15:	16:	15:	16:
+Titus:	Titus:	16:	17:	16:	17:
+Philemon:	Philemon:	17:	18:	17:	18:
+Hebrews:	Hebrews:	18:	19:	18:	19:
+James:	James:	19:	20:	19:	20:
+1 Peter:	1 Peter:	20:	21:	20:	21:
+2 Peter:	2 Peter:	21:	22:	21:	22:
+1 John:	1 John:	22:	23:	22:	23:
+2 John:	2 John:	23:	24:	23:	24:
+3 John:	3 John:	24:	25:	24:	25:
+Jude:	Jude:	25:	26:	25:	26:
+Revelation:	Revelation:	26:	27:	26:	27:
